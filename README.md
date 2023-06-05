@@ -1,7 +1,7 @@
-![MasterHead](https://media.tenor.com/3hGyiX1kNYYAAAAC/welcome.gif)
+![MasterHead](https://i.pinimg.com/originals/ca/26/2e/ca262e0354eea311c41134c3e4bc3bc2.gif)
 <h1 align="center">Hi 👋, I'm Syed Nassir Alhaddad</h1>
 <h3 align="center">A passionate self-learn Python user</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nasserzainhaddad&label=Profile%20views&color=0e75b6&style=flat" alt="nasserzainhaddad" /> </p>
